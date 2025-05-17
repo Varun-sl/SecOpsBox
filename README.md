@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="docs/SecOpsBox_logo.png" width="180" alt="SecOpsBox Logo" />
-</p>
-
 # SecOpsBox
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -38,7 +34,6 @@ As a system administrator and security engineer, I saw how small teams struggle 
 
 ## 📚 Table of Contents
 
-- [Live Demo & Screenshots](#-live-demo--screenshots)
 - [Why I Built SecOpsBox](#-why-i-built-secopsbox)
 - [Features](#-features)
 - [Quick Start](#-quick-start)
@@ -80,10 +75,6 @@ A startup wants to deploy secure Linux and Windows servers on AWS, monitor them 
 ---
 
 ## 🏗️ Architecture
-
-<p align="center">
-  <img src="docs/architecture.png" width="600" alt="SecOpsBox Architecture Diagram" />
-</p>
 
 - **Infrastructure:** AWS (EC2, VPC) or local VMs (Vagrant/VirtualBox)
 - **Configuration Management:** Ansible
