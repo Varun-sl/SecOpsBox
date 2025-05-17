@@ -10,17 +10,6 @@
 
 ---
 
-## 🚀 Live Demo & Screenshots
-
-> **See SecOpsBox in action!**
->
-> ![Kibana Dashboard](docs/screenshots/kibana_dashboard.png)
-> ![Prometheus Monitoring](docs/screenshots/prometheus_grafana.png)
->
-> *More in [docs/screenshots/](docs/screenshots/)*
-
----
-
 ## 🎯 Why I Built SecOpsBox
 
 As a system administrator and security engineer, I saw how small teams struggle to automate secure infrastructure and incident response.  
