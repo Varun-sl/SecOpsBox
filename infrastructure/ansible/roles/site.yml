@@ -1,0 +1,5 @@
+- hosts: all
+  become: yes
+  roles:
+    - linux_hardening
+    - elk_install
